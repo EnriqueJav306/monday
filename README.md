@@ -1,6 +1,11 @@
-# Como Conectarse a una API con Javascript usando Async, Await y Fetch
-### [Tutorial: https://youtu.be/PNr8-JDMinU](https://youtu.be/PNr8-JDMinU)
+2433824298 -----> item de la tabla de clientes
 
-![Como Conectarse a una API con Javascript usando Async, Await y Fetch](https://raw.githubusercontent.com/falconmasters/como-conectarse-a-una-api-javascript/master/img/thumb.png)
+2433824272 -----> item de la tabla de prospectos
 
-Por: [FalconMasters](http://www.falconmasters.com)
+2433824153 -----> id_board del proyecto
+
+7376057 --------> board_forder_id
+
+La ruta del token está en:
+
+Esquina inferior izquierda -> Admin -> API
